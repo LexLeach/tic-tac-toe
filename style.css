@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.board {
+    display: flex;
+    width: 501px;
+    height: 501px;
+}
+
+.innerDiv {
+    border: 2px solid black;
+    width: 167px;
+    height: 167px;
+}
